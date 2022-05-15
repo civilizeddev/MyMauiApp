@@ -1,0 +1,13 @@
+{
+    "name": "MyMauiApp",
+    "version": "0.0.0",
+    "description": ".NET MAUI App for MacCatalyst DEMO",
+    "repository": "https://github.com/civilizeddev/MyMauiApp.git",
+    "author": "Hyeonsoo David Lee <hyeonsoo.david.lee@gmail.com>",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "dotnet:install": "sudo dotnet workload install maui --source https://api.nuget.org/v3/index.json",
+        "dotnet:build": "dotnet build -t:Run -f net6.0-maccatalyst"
+    }
+}
