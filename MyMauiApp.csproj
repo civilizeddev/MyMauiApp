@@ -13,7 +13,7 @@
         <ApplicationTitle>MyMauiApp</ApplicationTitle>
 
         <!-- App Identifier -->
-        <ApplicationId>com.companyname.mymauiapp</ApplicationId>
+        <ApplicationId>civilizeddev.mymauiapp</ApplicationId>
         <ApplicationIdGuid>8125214a-8064-4667-96e2-c1e48270e4e7</ApplicationIdGuid>
 
         <!-- Versions -->
